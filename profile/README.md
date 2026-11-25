@@ -15,5 +15,5 @@ We use this space to collaborate on hardware and software projects, document wha
 ### Hardware Functional Unit
 
 <p align="center">
-  <img src="./diagrams/hardware.svg" alt="Hamdan Afross leads Assistant Head Kiruthik Pranav, who leads Ashar Sayeed, Brandon Go, Jamaloodeen, Muhammad Hasnain, Robbin Kefin Gusmao, Valencia Agneta, and Zamir Bin Artan.">
+  <img src="./diagrams/hardware.svg" alt="Hamdan leads Assistant Head Kiruthik, who leads Ashar, Brandon, Jamaloodeen, Muhammad, Robbin, Valencia, and Zamir.">
 </p>
