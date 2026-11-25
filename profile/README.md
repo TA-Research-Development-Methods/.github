@@ -15,5 +15,5 @@ We use this space to collaborate on hardware and software projects, document wha
 ### Hardware Functional Unit
 
 <p align="center">
-  <img src="./diagrams/hardware.svg" alt="Hamdan leads Assistant Head Kiruthik, who leads Ashar, Brandon, Jamaloodeen, Hasnain, Robbin, Valencia, and Zamir.">
+  <img src="./diagrams/hardware.svg" alt="Hamdan leads Assistant Head Kiruthik, who leads Ashar, Brandon, Jamaloodeen, Hasnain, Robbin, and Zamir.">
 </p>
