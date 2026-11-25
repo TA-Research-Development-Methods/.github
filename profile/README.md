@@ -1,21 +1,34 @@
 # Research & Development Methods
 
-Welcome to the GitHub organization for APU’s Technical Assistants in the **Hardware & Software Functional Unit**.
+Welcome to the GitHub organization for APU’s Technical Assistants in the **Software Functional Unit** and the **Hardware Functional Unit**.
 
 We use this space to collaborate on hardware and software projects, document what we learn from technical investigations, and share tools and procedures that other Technical Assistants can reuse.
 
 ## Functional unit hierarchy
 
+### Software Functional Unit
+
 ```mermaid
 flowchart TB
-    org["Research & Development Methods"]
-    org --> software["Software Functional Unit"]
-    org --> hardware["Hardware Functional Unit"]
+    abrar["Abrar<br/>Functional Unit Head"]
+    abrar --> amr["Amr"]
+    abrar --> douaa["Douaa"]
+    abrar --> ethan["Ethan"]
+    abrar --> awad["Awad"]
+    abrar --> othman["Othman"]
+```
 
-    software --> software_head["Abrar<br/>Functional Unit Head"]
-    software_head --> software_members["Members<br/>Amr<br/>Douaa<br/>Ethan<br/>Awad<br/>Othman"]
+### Hardware Functional Unit
 
-    hardware --> hardware_head["Hamdan Afross<br/>Functional Unit Head"]
-    hardware_head --> hardware_assistant["Kiruthik Pranav<br/>Assistant Head"]
-    hardware_head --> hardware_members["Members<br/>Ashar Sayeed<br/>Brandon Go<br/>Jamaloodeen<br/>Muhammad Hasnain<br/>Robbin Kefin Gusmao<br/>Valencia Agneta<br/>Zamir Bin Artan"]
+```mermaid
+flowchart TB
+    hamdan["Hamdan Afross<br/>Functional Unit Head"]
+    hamdan --> kiruthik["Kiruthik Pranav<br/>Assistant Head"]
+    kiruthik --> ashar["Ashar Sayeed"]
+    kiruthik --> brandon["Brandon Go"]
+    kiruthik --> jamaloodeen["Jamaloodeen"]
+    kiruthik --> hasnain["Muhammad Hasnain"]
+    kiruthik --> robbin["Robbin Kefin Gusmao"]
+    kiruthik --> valencia["Valencia Agneta"]
+    kiruthik --> zamir["Zamir Bin Artan"]
 ```
