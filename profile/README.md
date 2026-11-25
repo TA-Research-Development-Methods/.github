@@ -8,8 +8,12 @@ We use this space to collaborate on hardware and software projects, document wha
 
 ### Software Functional Unit
 
-![Abrar leads Amr, Douaa, Ethan, Awad, and Othman.](./diagrams/software.svg)
+<p align="center">
+  <img src="./diagrams/software.svg" alt="Abrar leads Amr, Douaa, Ethan, Awad, and Othman.">
+</p>
 
 ### Hardware Functional Unit
 
-![Hamdan Afross leads Assistant Head Kiruthik Pranav, who leads Ashar Sayeed, Brandon Go, Jamaloodeen, Muhammad Hasnain, Robbin Kefin Gusmao, Valencia Agneta, and Zamir Bin Artan.](./diagrams/hardware.svg)
+<p align="center">
+  <img src="./diagrams/hardware.svg" alt="Hamdan Afross leads Assistant Head Kiruthik Pranav, who leads Ashar Sayeed, Brandon Go, Jamaloodeen, Muhammad Hasnain, Robbin Kefin Gusmao, Valencia Agneta, and Zamir Bin Artan.">
+</p>
