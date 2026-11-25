@@ -8,27 +8,8 @@ We use this space to collaborate on hardware and software projects, document wha
 
 ### Software Functional Unit
 
-```mermaid
-flowchart TB
-    abrar["Abrar<br/>Functional Unit Head"]
-    abrar --> amr["Amr"]
-    abrar --> douaa["Douaa"]
-    abrar --> ethan["Ethan"]
-    abrar --> awad["Awad"]
-    abrar --> othman["Othman"]
-```
+![Abrar leads Amr, Douaa, Ethan, Awad, and Othman.](./diagrams/software.svg)
 
 ### Hardware Functional Unit
 
-```mermaid
-flowchart TB
-    hamdan["Hamdan Afross<br/>Functional Unit Head"]
-    hamdan --> kiruthik["Kiruthik Pranav<br/>Assistant Head"]
-    kiruthik --> ashar["Ashar Sayeed"]
-    kiruthik --> brandon["Brandon Go"]
-    kiruthik --> jamaloodeen["Jamaloodeen"]
-    kiruthik --> hasnain["Muhammad Hasnain"]
-    kiruthik --> robbin["Robbin Kefin Gusmao"]
-    kiruthik --> valencia["Valencia Agneta"]
-    kiruthik --> zamir["Zamir Bin Artan"]
-```
+![Hamdan Afross leads Assistant Head Kiruthik Pranav, who leads Ashar Sayeed, Brandon Go, Jamaloodeen, Muhammad Hasnain, Robbin Kefin Gusmao, Valencia Agneta, and Zamir Bin Artan.](./diagrams/hardware.svg)
